@@ -1,0 +1,9 @@
+====================================================
+   HASIL PERHITUNGAN LUAS LINGKARAN ANDA
+====================================================
+Tanggal Perhitungan     : 2022-06-06 
+Jam Perhitungan         : 01:08:26 
+Panjang Jari-Jari       : 1 
+Rumus Luas Lingkaran    : 3.14 x jari-jari x jari-jari
+                        : 3.14 x 1 x 1 
+Luas Lingkaran          : 3.14

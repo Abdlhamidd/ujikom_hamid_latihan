@@ -1,0 +1,9 @@
+====================================================
+      HASIL PERHITUNGAN LUAS PERSEGI ANDA
+====================================================
+Tanggal Perhitungan     : 2022-06-03 
+Jam Perhitungan         : 04:56:38 
+Panjang sisi            : 12 
+Rumus Luas Lingkaran    : sisi x sisi
+                        : 12 x 12 
+Luas persegi            : 144

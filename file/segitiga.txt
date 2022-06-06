@@ -1,0 +1,10 @@
+====================================================
+      HASIL PERHITUNGAN LUAS SEGITIGA ANDA
+====================================================
+Tanggal Perhitungan        : 2022-06-06 
+Jam Perhitungan            : 12:18:04 
+Panjang Alas Segitiga      : 12 
+Panjang Tinggi Segitiga    : 12 
+Rumus Luas Lingkaran       : Alas x Tinggi : 2
+                           : 12 x 12 : 2 
+Luas segitiga              : 72
